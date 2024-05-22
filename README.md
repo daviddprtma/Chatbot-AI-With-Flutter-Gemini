@@ -10,7 +10,7 @@ A Gemini ChatBot that can make a conversation with you and ask to get an answer 
 
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/">View Demo .</a>  
+<a href="">View Demo </a>  
 
 
 </p>
@@ -37,9 +37,9 @@ Before you'll be use and run this project, you should follow this step by step:
 2.) Sign up / login to the Gemini to get an API key 
  ### Installation
 
-_Here is the cheatsheet/ how to install this project _
+Here is the cheatsheet/ how to install this project
 
-1. Install your flutter at  [https://docs.flutter.dev/get-started/install
+1. Install your flutter at  [https://docs.flutter.dev/get-started/install]
 (Flutter Installation)
 
 2. Get your Gemini API Key in here: [https://ai.google.dev/]
