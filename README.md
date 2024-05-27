@@ -10,7 +10,7 @@ A Gemini ChatBot that can make a conversation with you and ask to get an answer 
 
 <br/>
 <br/>
-<a href="">View Demo </a>  
+<a href="https://youtu.be/k10RgazPcOY?si=3QH0Fq5RjLnqJISp">View Demo </a>  
 
 
 </p>
