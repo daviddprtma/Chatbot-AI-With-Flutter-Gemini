@@ -47,11 +47,17 @@ Here is the cheatsheet/ how to install this project
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini.git  ```
+   git clone https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini.git
+   ```
 
 4. Enter your API in `.env` file
    ```js
    API_TOKEN = "ENTER YOUR API";
+   ```
+
+5. Run the project
+   ```sh
+   flutter run
    ```
  ## License
 
