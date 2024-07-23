@@ -11,13 +11,13 @@ A Gemini ChatBot that can make a conversation with you and ask to get an answer 
 <br/>
 <br/>
 <ul>
-<li><a href="https://youtu.be/k10RgazPcOY?si=3QH0Fq5RjLnqJISp">View Demo </a>  </li>
-  <br>
 <li><a href="https://discord.com/channels/895564164783808523/996788955007696986/1245983569965481996">Announcement for the winners project </a>  </li>
 </ul>
 </p>
 </div>
 
+ ## Demo Video 
+ [![IMAGE ALT TEXT HERE](https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/blob/21b258679100afbff616a858742657159e508df7/assets/images/gemini.png)](https://www.youtube.com/watch?v=k10RgazPcOY)
  ## About The Project
 
 ![Gemini Chatbot Screen](https://raw.githubusercontent.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/main/assets/images/Gemini%20Chatbot%20Screen.png)
