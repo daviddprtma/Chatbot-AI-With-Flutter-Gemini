@@ -4,15 +4,12 @@
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="https://raw.githubusercontent.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/main/assets/images/logo_chatbot_ai.png" alt="Logo" width="80" height="80">
 </a>
-<h3 align="center">Chatbot AI With Flutter + Gemini (Top 4 Winners Bounty Project in Stackup)</h3>
+<h3 align="center">Chatbot AI With Flutter + Gemini</h3>
 <p align="center">
 A Gemini ChatBot that can make a conversation with you and ask to get an answer from the Gemini AI
 
 <br/>
 <br/>
-<ul>
-<li><a href="https://discord.com/channels/895564164783808523/996788955007696986/1245983569965481996">Announcement for the winners project </a>  </li>
-</ul>
 </p>
 </div>
 
