@@ -10,15 +10,15 @@ A Gemini ChatBot that can make a conversation with you and ask to get an answer 
 
 <br/>
 <br/>
-<a href="">View Demo </a>  
-
-
 </p>
 </div>
 
+ ## Demo Video 
+ [![IMAGE ALT TEXT HERE](https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/blob/21b258679100afbff616a858742657159e508df7/assets/images/gemini.png)](https://www.youtube.com/watch?v=k10RgazPcOY)
  ## About The Project
 
 ![Gemini Chatbot Screen](https://raw.githubusercontent.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/main/assets/images/Gemini%20Chatbot%20Screen.png)
+
 
 Chatbot Gemini AI is the application who works perfectly on Android & IOS to ask about everything and get answered by AI just only a second. No matter for what question that you ask to Gemini, the bot will be answer you according to the input that you ask to it 😊🔥✅
  ### Built With
@@ -47,11 +47,17 @@ Here is the cheatsheet/ how to install this project
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini.git  ```
+   git clone https://github.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini.git
+   ```
 
 4. Enter your API in `.env` file
    ```js
    API_TOKEN = "ENTER YOUR API";
+   ```
+
+5. Run the project
+   ```sh
+   flutter run
    ```
  ## License
 
