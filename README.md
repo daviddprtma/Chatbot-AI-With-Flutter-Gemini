@@ -8,8 +8,8 @@
 <p align="center">
 A Gemini ChatBot that can make a conversation with you and ask to get an answer from the Gemini AI
 <br/>
-  If you want to see the list of the winner announcements, see it in here https://discord.com/channels/895564164783808523/996788955007696986/1245983569965481996
 <br/>
+  If you want to see the list of the winner announcements, see it in here https://discord.com/channels/895564164783808523/996788955007696986/1245983569965481996
 </p>
 </div>
 
