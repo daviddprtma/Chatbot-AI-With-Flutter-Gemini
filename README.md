@@ -4,12 +4,12 @@
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="https://raw.githubusercontent.com/daviddprtma/Chatbot-AI-With-Flutter-Gemini/main/assets/images/logo_chatbot_ai.png" alt="Logo" width="80" height="80">
 </a>
-<h3 align="center">Chatbot AI With Flutter + Gemini</h3>
+
 <p align="center">
 A Gemini ChatBot that can make a conversation with you and ask to get an answer from the Gemini AI
-
 <br/>
 <br/>
+  
 </p>
 </div>
 
